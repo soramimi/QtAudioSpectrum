@@ -2,7 +2,6 @@
 #define MAINWINDOW_H
 
 #include <QDialog>
-#include "main.h"
 #include <stdint.h>
 
 class Video;

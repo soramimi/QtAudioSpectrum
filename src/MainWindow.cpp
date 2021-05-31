@@ -1,11 +1,9 @@
 #include "MainWindow.h"
 #include "ui_MainWindow.h"
-#include "MySettings.h"
 #include "WaveWidget.h"
 #include <QAudioInput>
 #include <QAudioOutput>
 #include <QClipboard>
-#include <QDebug>
 #include <QDebug>
 #include <QFileDialog>
 #include <QMessageBox>

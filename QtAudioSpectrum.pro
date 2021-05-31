@@ -10,7 +10,8 @@ DESTDIR = $$PWD/_bin
 SOURCES += \
 	src/LevelMeterWidget.cpp \
 	src/MainWindow.cpp \
-	src/WaveWidget.cpp
+	src/WaveWidget.cpp \
+	src/main.cpp
 
 HEADERS += \
 	src/LevelMeterWidget.h \
